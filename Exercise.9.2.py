@@ -8,4 +8,3 @@ new_grade = float(input("Enter the new grade: "))
 grades[index] = new_grade
 
 print("Corrected grades:", grades)
-
